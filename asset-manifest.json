@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kashaf/static/css/main.5f361e03.chunk.css",
+    "main.js": "/kashaf/static/js/main.f8f45ca3.chunk.js",
+    "main.js.map": "/kashaf/static/js/main.f8f45ca3.chunk.js.map",
+    "runtime-main.js": "/kashaf/static/js/runtime-main.1b5d69bc.js",
+    "runtime-main.js.map": "/kashaf/static/js/runtime-main.1b5d69bc.js.map",
+    "static/js/2.2993dbbf.chunk.js": "/kashaf/static/js/2.2993dbbf.chunk.js",
+    "static/js/2.2993dbbf.chunk.js.map": "/kashaf/static/js/2.2993dbbf.chunk.js.map",
+    "index.html": "/kashaf/index.html",
+    "precache-manifest.d21d6be9fbbb9cdcc51b2190fe7086fa.js": "/kashaf/precache-manifest.d21d6be9fbbb9cdcc51b2190fe7086fa.js",
+    "service-worker.js": "/kashaf/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/kashaf/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2993dbbf.chunk.js.LICENSE.txt": "/kashaf/static/js/2.2993dbbf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kashaf/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b5d69bc.js",
+    "static/js/2.2993dbbf.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f8f45ca3.chunk.js"
+  ]
+}
